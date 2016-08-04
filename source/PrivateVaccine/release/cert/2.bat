@@ -1,0 +1,1 @@
+cert2spc.exe ca.cer ca.spc

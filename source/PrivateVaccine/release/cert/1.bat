@@ -1,0 +1,1 @@
+makecert -n "CN=Malware.Lab" -r -sv  ca.pvk ca.cer
